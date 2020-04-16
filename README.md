@@ -1,1 +1,2 @@
-# my-recipes-verkefni5
+# recipes
+vefþ2vh - verkefni 2
